@@ -1,0 +1,102 @@
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\bin\Debug\Mainform and login.exe.config
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\bin\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\bin\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform and login.csproj.AssemblyReference.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.login_form.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Main.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Properties.Resources.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform and login.csproj.GenerateResource.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform and login.csproj.CoreCompileInputs.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Registration.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.loading.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Admin_personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Admin_home.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Manage_Teacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Admin_all.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.All_student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.manage_Student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.StudentPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.TeacherPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Teacher_profile.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.Student_Personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.AddTeacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Debug\Mainform_and_login.AddStudent.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\bin\Debug\Mainform and login.exe.config
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\bin\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\bin\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform and login.csproj.AssemblyReference.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.AddStudent.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.AddTeacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Admin_all.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Admin_home.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Admin_personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.All_student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.login_form.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.loading.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Main.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.manage_Student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Manage_Teacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Properties.Resources.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Registration.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.StudentPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Student_Personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.TeacherPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform_and_login.Teacher_profile.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform and login.csproj.GenerateResource.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform and login.csproj.CoreCompileInputs.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile\Mainform and login\obj\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\bin\Debug\Mainform and login.exe.config
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\bin\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\bin\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform and login.csproj.AssemblyReference.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.AddStudent.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.AddTeacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Admin_all.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Admin_home.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Admin_personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.All_student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.login_form.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.loading.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.manage_Student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Manage_Teacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Properties.Resources.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Registration.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.StudentPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Student_Personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.TeacherPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform_and_login.Teacher_profile.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform and login.csproj.GenerateResource.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform and login.csproj.CoreCompileInputs.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\obj\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\bin\Debug\Database1.mdf
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\CWcodefile - Copy\Mainform and login\bin\Debug\Database1_log.ldf
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\bin\Debug\Database1.mdf
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\bin\Debug\Database1_log.ldf
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\bin\Debug\Mainform and login.exe.config
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\bin\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\bin\Debug\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform and login.csproj.AssemblyReference.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.AddStudent.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.AddTeacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Admin_all.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Admin_home.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Admin_personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.All_student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.login_form.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.loading.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.manage_Student.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Manage_Teacher.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Properties.Resources.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Registration.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.StudentPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Student_Personal.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.TeacherPage.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform_and_login.Teacher_profile.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform and login.csproj.GenerateResource.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform and login.csproj.CoreCompileInputs.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\sentoHuy\Mainform and login\obj\Debug\Mainform and login.pdb

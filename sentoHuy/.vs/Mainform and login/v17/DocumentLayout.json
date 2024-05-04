@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__ONEDRIVE_GREENWICH_SUBJECTS_2024_APP___DEV___COMP_1551_SENTOHUY_MAINFORM_AND_LOGIN_DATABASE1.MDF/True/SqlTable/dbo.User_1.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\epbox40b..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|e:\\onedrive\\greenwich-subjects\\2024\\app - dev - comp 1551\\sentohuy\\mainform and login\\all_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\all_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\all_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\all_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\manage_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\manage_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\manage_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\manage_teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\mainform and login\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6048B230-40D7-4A3A-AC7A-4B7FBAB81BDC}|Mainform and login\\Mainform and login.csproj|solutionrelative:mainform and login\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\epbox40b..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\User.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\User.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\User.cs",
+              "RelativeToolTip": "Mainform and login\\User.cs",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAUwHoBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:18:38.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.User_1 [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/E__ONEDRIVE_GREENWICH_SUBJECTS_2024_APP___DEV___COMP_1551_SENTOHUY_MAINFORM_AND_LOGIN_DATABASE1.MDF/True/SqlTable/dbo.User_1.sql",
+              "ToolTip": "dbo.User_1 [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-04T08:44:57.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\epbox40b..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-04T08:44:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "all_teacher.cs [Design]",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\all_teacher.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\all_teacher.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\all_teacher.cs [Design]",
+              "RelativeToolTip": "Mainform and login\\all_teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:19:59.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "All_student.cs [Design]",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\All_student.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\All_student.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\All_student.cs [Design]",
+              "RelativeToolTip": "Mainform and login\\All_student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:19:27.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Registration.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\Registration.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Registration.cs",
+              "RelativeToolTip": "Mainform and login\\Registration.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADgv5kAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:01:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Registration.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\Registration.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Registration.cs [Design]",
+              "RelativeToolTip": "Mainform and login\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:01:37.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manage_Teacher.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Manage_Teacher.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\Manage_Teacher.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Manage_Teacher.cs",
+              "RelativeToolTip": "Mainform and login\\Manage_Teacher.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:48:57.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manage_Teacher.cs [Design]",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Manage_Teacher.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\Manage_Teacher.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\Manage_Teacher.cs [Design]",
+              "RelativeToolTip": "Mainform and login\\Manage_Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:48:54.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "manage_Student.cs [Design]",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\manage_Student.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\manage_Student.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\manage_Student.cs [Design]",
+              "RelativeToolTip": "Mainform and login\\manage_Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:26:07.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manage_Student.cs",
+              "DocumentMoniker": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\manage_Student.cs",
+              "RelativeDocumentMoniker": "Mainform and login\\manage_Student.cs",
+              "ToolTip": "E:\\OneDrive\\Greenwich-SUBJECTS\\2024\\App - Dev - COMP 1551\\sentoHuy\\Mainform and login\\manage_Student.cs",
+              "RelativeToolTip": "Mainform and login\\manage_Student.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:07:19.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

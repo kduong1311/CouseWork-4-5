@@ -1,0 +1,13 @@
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\bin\Release\Mainform and login.exe.config
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\bin\Release\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\bin\Release\Mainform and login.pdb
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform and login.csproj.AssemblyReference.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform_and_login.login_form.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform_and_login.loading.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform_and_login.Main.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform_and_login.Properties.Resources.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform_and_login.Registration.resources
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform and login.csproj.GenerateResource.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform and login.csproj.CoreCompileInputs.cache
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform and login.exe
+E:\OneDrive\Greenwich-SUBJECTS\2024\App - Dev - COMP 1551\Mainform and login\Mainform and login\obj\Release\Mainform and login.pdb
